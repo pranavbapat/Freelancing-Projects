@@ -1,0 +1,6 @@
+Write a Java program (non-GUI preferred) to demonstrate the use of Iterator.
+The program should allow a user to do the following:
+Allow the reading of a collection of animal objects from an external file.
+Output on screen the content of a collection of animal objects.
+Use Iterator to achieve these goals.
+Include a brief documentation (in the code or in a separate document) to explain the input (if any), processing and output of the program.
